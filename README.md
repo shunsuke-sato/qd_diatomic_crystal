@@ -1,0 +1,1 @@
+# qd_diatomic_crystal
